@@ -118,6 +118,5 @@ For any queries, contact:
 
 ---
 
-Good luck, and happy building!  
-**– Team matriXO**
-
+### **Good luck, and happy building!**
+### **– Team matriXO**
